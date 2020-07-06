@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwcGenerator", "PwcGenerator\PwcGenerator.csproj", "{3086621C-FFD7-433D-BD60-E16C9F8DA28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3086621C-FFD7-433D-BD60-E16C9F8DA28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3086621C-FFD7-433D-BD60-E16C9F8DA28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3086621C-FFD7-433D-BD60-E16C9F8DA28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3086621C-FFD7-433D-BD60-E16C9F8DA28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60EC704-FC0B-45AB-9301-5A83DB6F25C8}
+	EndGlobalSection
+EndGlobal
